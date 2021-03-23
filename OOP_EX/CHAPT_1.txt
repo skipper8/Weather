@@ -1,0 +1,21 @@
+1.1) A major proble that I have experienced while developing software projects is getting lost on what I am trying to achieve. I would estimate that I spend 20% of my time analysing, 10% on designing, 30% on coding and the last 40% on testing and debugging. I generally take the time I think it will take for me to analyze, desgin and code and double it.
+
+1.2) The last system that I created was a web scraper to cover prepmod sites. A major obstical was that the website I was scrapin changed a lot. I tried to use a OOP design where I made a class for prepmod direct links so we would only have to fix the class when it broke and not every scrapper. It works pretty well but I think there was more that I could have generalized. I didn't really pick my approach that was just how I was taught this book is my first real in depth attempt to understand methodology. It is fairly easy to add new feture and is pretty maintainable.
+
+1.3) A large software system that was created was the apple face recognition software. It was unable to recognize Aisan faces due to poor training. They could have recognized all of the demographics that this devise was going to have cover. So if they had one their Analytsis better this program would be better.
+
+1.4) A thing that anoyes me as a user is the speed at which things are accessable. I don't know how this can be avoided.
+
+1.5)    a) Post people employ #
+	b) Police Officers employ #
+	c) Securit box #
+	d) phone #
+	e) Customer ID
+	f) email adress
+	g) Employ ID
+
+1.6)    a) newspapers
+	b) player, throws
+	c) caller, time, message
+	d) Casset
+	e) customer, pay, item, time, order #
